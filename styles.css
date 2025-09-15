@@ -191,7 +191,7 @@ li {
   }
 } */
 
-@media (min-width: 300px) {
+@media (max-width: 300px) {
   /*
     1. Resetting the main body and card to be full-width
   */
